@@ -1,0 +1,6 @@
+/client/node_modules
+/localnet/program.so
+/program/cargo.lock
+/program/target
+/test-ledger
+/client/tsconfig.json
